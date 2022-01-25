@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shankarlaggisetty
-- 👀 I’m interested in ...developing my skills 
-- 🌱 I’m currently learning ...DSA , JAVA , C , DBMS
-- 💞️ I’m looking to collaborate on ...INFOSYS 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning .... C , DBMS
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lbhavanishankar9@gmail.com
 
 <!---
